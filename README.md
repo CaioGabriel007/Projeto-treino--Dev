@@ -1,4 +1,4 @@
-<h1>Wide Coverage & We Care</h1>
+<h1>We Care</h1>
 <br>
 <h2> :sparkles: Este é um dos projetos que aprendi no <a href="https://www.devclub.com.br" target="_blank">DevClub</a> :sparkles:</h2>
 
