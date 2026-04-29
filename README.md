@@ -1,6 +1,6 @@
 <h1>Wide Coverage & We Care</h1>
 <br>
-<h2> :sparkles: Estes são dois dos projetos que aprendi no <a href="https://www.devclub.com.br" target="_blank">DevClub</a> :sparkles:</h2>
+<h2> :sparkles: Este é um dos projetos que aprendi no <a href="https://www.devclub.com.br" target="_blank">DevClub</a> :sparkles:</h2>
 <figure>
   <img src="https://github.com/CaioGabriel007/Projeto-treino--Dev/blob/main/Wide-Coverage.png?raw=true">
   <figcaption>Wide-Coverage-não-responsivo</figcaption>
@@ -24,7 +24,7 @@
 <br>
 <br>
 <br>
-<i>Apenas um dos projetos está responsivo pensando nos dispositivos mobile, como pode ser visto acima :wink:</i>
+<i>Projeto responsivo pensando nos dispositivos mobile :wink:</i>
 <br>
 <br>
 <h3>TECNOLOGIAS UTILIZADAS:</h3>
