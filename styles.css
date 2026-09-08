@@ -7,9 +7,26 @@
     box-sizing: border-box;
 }
 
-header {
+/* header {
     margin: 44px 0 144px 76px;
+} */
+
+header {
+    margin-left: 30px;
+    margin-top: 20px;
+    padding-bottom: 20px;
 }
+
+
+
+header a {
+    color: white;
+    font-size: 24px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
 
 .link-header {
     font-weight: 600;
@@ -19,6 +36,8 @@ header {
     line-height: 29px;
     cursor: pointer;
     margin-right: 23px;
+    display: inline-block;
+    transition: transform 0.4s ease;
 
 }
 
@@ -33,6 +52,7 @@ header {
     font-weight: 600;
     line-height: 29px;
     color: #ffffff;
+    transition: transform 0.36s ease;
 
 
 }
@@ -41,6 +61,7 @@ header {
     width: 568px;
     height: 501px;
     margin-left: 125px;
+    margin-top: 100px;
     display: inline-block;
 }
 
@@ -88,23 +109,69 @@ p {
     line-height: 34px;
     filter: drop-shadow(0px 4px 0px 4px rgba(0, 0, 0, 0.25));
     margin-bottom: 186px;
+    transition: transform 0.3s ease;
+} 
+
+.button-main:hover {
+    opacity: 0.8;
+    transform: scale(1.2)
+
+}
+
+.button-main:active {
+    opacity: 0.6;
+    transform: scale(1.0)
+}
+
+.button-header:hover {
+    opacity: 0.9;
+    transform: scale(1.2)
+}
+
+.button-header:active {
+    opacity: 2.0;
+    transform: scale(0.9)
 }
 
 
-@media screen and (max-width: 610px){
+.link-header:hover {
+    transform: scale(1.2);
+    color: #343a40;
+}
 
-    header {
-        display: none;
+.link-header:active {
+    transform: scale(1.0);
+}
+
+
+
+@media screen and (max-width: 911px){
+
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
     }
-    
+
+    .button-header {
+        font-size: 11px;
+        width: 65px;
+        height: 25px;
+    }
+
+
+  .link-header {
+    font-size: 10px;
+  }
+
     p {
         display: none;
     }
 
    .logo-image {
     height: 317px;
-    width: 354px;
-    margin: 149px 50px 24px 50px;
+    width: 350px;
+    margin: 149px 24px 0 15px;
 }
 
     section {
@@ -133,4 +200,6 @@ p {
 
 
    }
+
+  
 }
