@@ -11,7 +11,7 @@
 <br>
 <br>
 <figure>
-  <img src="https://github.com/CaioGabriel007/Projeto-treino--Dev/blob/main/We-Care-Responsivo.png?raw=true" width=425px>
+  <img src="https://github.com/CaioGabriel007/Projeto-treino--Dev/blob/bf373a3214d2d105ead91e0b47168e4e453a45ad/We%20Care-Responsivo%202.0.png" width=425px>
   <figcaption>We Care-Responsivo</figcaption>
 </figure>
 <br>
